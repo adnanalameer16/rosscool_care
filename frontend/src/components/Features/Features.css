@@ -1,0 +1,38 @@
+.features {
+    padding: 5rem 0;
+    background: linear-gradient(135deg, #1a365d 0%, #2d5a87 100%);
+    color: white;
+}
+
+.features .section-title {
+    color: white;
+}
+
+.features-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+    margin-top: 3rem;
+}
+
+.feature-item {
+    text-align: center;
+    padding: 1rem;
+}
+
+.feature-icon {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    color: #4fd1c7;
+}
+
+.feature-item h3 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    color: white;
+}
+
+.feature-item p {
+    color: #cbd5e0;
+    line-height: 1.6;
+}
