@@ -4,7 +4,8 @@ const Brands = () => {
     const brands = [
         { name: 'GODREJ', status: 'Authorized Partner' },
         { name: 'HAIER', status: 'Authorized Partner' },
-        { name: 'SAMSUNG', status: 'Authorized Partner' }
+        { name: 'SAMSUNG', status: 'Authorized Partner' },
+        { name: 'AND MORE', status: 'Service for All Major Brands' }
     ]
 
     return (

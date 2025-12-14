@@ -29,8 +29,8 @@ const Services = () => {
         },
         {
             icon: '🏠',
-            title: 'Home Appliance Care',
-            description: 'Comprehensive home appliance maintenance and repair services with genuine parts and expert technicians.'
+            title: 'General Home Appliance Service',
+            description: 'Comprehensive maintenance and repair services for all types of home appliances, ensuring your household runs smoothly.'
         }
     ]
 

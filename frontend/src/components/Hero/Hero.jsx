@@ -14,8 +14,8 @@ const Hero = () => {
     return (
         <section className="hero" id="home">
             <div className="hero-content">
-                <h1>Authorized Appliance Repair Services</h1>
-                <p>Expert technicians, genuine parts, and reliable service for all your home appliances. We're authorized service partners for leading brands.</p>
+                <h1>Authorized Home Appliance Service Center</h1>
+                <p>Expert service and repair for all home appliances including washing machines, refrigerators, ACs, and more. We are authorized partners for leading brands and provide specialized care for all major makes and models in Idukki & Kattappana.</p>
                 <div className="cta-buttons">
                     <a 
                         href="#contact" 

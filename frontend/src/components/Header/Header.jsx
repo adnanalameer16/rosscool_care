@@ -67,7 +67,7 @@ const Header = () => {
                     </ul>
                 </nav>
                 <div className="contact-info">
-                    <a href="tel:+917012659028" className="phone">📞 +91 9447082577</a>
+                    <a href="tel:+919447082577" className="phone">📞 +91 9447082577</a>
                 </div>
             </div>
         </header>
